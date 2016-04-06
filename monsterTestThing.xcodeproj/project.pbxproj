@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF7794511CB582E600140296 /* DragImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7794501CB582E600140296 /* DragImg.swift */; };
 		AFBD533D1CB4BCD4001A058E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBD533C1CB4BCD4001A058E /* AppDelegate.swift */; };
 		AFBD533F1CB4BCD4001A058E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBD533E1CB4BCD4001A058E /* ViewController.swift */; };
 		AFBD53421CB4BCD4001A058E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFBD53401CB4BCD4001A058E /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AF7794501CB582E600140296 /* DragImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragImg.swift; sourceTree = "<group>"; };
 		AFBD53391CB4BCD4001A058E /* monsterTestThing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = monsterTestThing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFBD533C1CB4BCD4001A058E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AFBD533E1CB4BCD4001A058E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		AFBD53301CB4BCD4001A058E = {
 			isa = PBXGroup;
 			children = (
+				AF7794501CB582E600140296 /* DragImg.swift */,
 				AFBD533B1CB4BCD4001A058E /* monsterTestThing */,
 				AFBD533A1CB4BCD4001A058E /* Products */,
 			);
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF7794511CB582E600140296 /* DragImg.swift in Sources */,
 				AFBD533F1CB4BCD4001A058E /* ViewController.swift in Sources */,
 				AFBD533D1CB4BCD4001A058E /* AppDelegate.swift in Sources */,
 			);
